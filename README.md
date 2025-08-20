@@ -1,1 +1,1 @@
-# CP2_iMiceBrain
+# iMiceBrain
